@@ -41,3 +41,10 @@ Setup & Installation:
 - Clone the repository. 
 - Open the project in Android Studio. 
 - Build and run the app on an emulator or device.
+
+Apk Link:
+https://drive.google.com/file/d/1oRUMmiBMY-bsAriNCeio50h5zOOKT91s/view
+
+Application Demo Link:
+https://drive.google.com/file/d/1q15u6DIg4eiEeC-moHNDxu4oVZqZY2HD/view?usp=sharing
+
