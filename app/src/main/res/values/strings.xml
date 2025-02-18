@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OlaAndroidAssignment</string>
+    <string name="type">Type</string>
+    <string name="sequence">Sequence</string>
+    <string name="product_id">Product Id</string>
+    <string name="price">Price</string>
+    <string name="open_24_hours">Open 24 Hours</string>
+    <string name="volume_24_hours">Volume 24 Hours</string>
+    <string name="low_24_hours">Low 24 Hours</string>
+    <string name="high_24_hours">High 24 Hours</string>
+    <string name="volume_30_d">Volume 30 D</string>
+    <string name="best_bid">Best Bid</string>
+    <string name="best_bid_size">Best Bid Size</string>
+    <string name="best_ask">Best Ask</string>
+    <string name="best_ask_size">Best Ask Size</string>
+    <string name="side">Side</string>
+    <string name="time">Time</string>
+    <string name="trade_id">Trade Id</string>
+    <string name="last_size">Last Size</string>
+    <string name="streaming_implementation">Streaming Implementation</string>
+    <string name="streaming">Streaming</string>
+    <string name="perplexity_math_model">Perplexity Math Model</string>
+    <string name="enter_comma_seperated_probabilities">Enter comma separated probabilities</string>
+    <string name="perplexity_will_be_displayed_here">Perplexity will be displayed here</string>
+    <string name="perplexity_is">Perplexity is %1$s</string>
+    <string name="entered_value_should_be_between_0_and_1_and_should_be_comma_seperated">Entered value should be between 0 and 1 and should be comma separated</string>
+    <string name="_4f">%.4f</string>
+    <string name="d">%d</string>
+    <string name="type_subscribe_channels_name_ticker_product_ids_btc_usd">{\n                    \"type\": \"subscribe\",\n                    \"channels\": [{ \"name\": \"ticker\", \"product_ids\": [\"BTC-USD\"] }]\n                }</string>
+    <string name="retry">Retry</string>
+</resources>
